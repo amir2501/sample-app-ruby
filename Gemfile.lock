@@ -71,7 +71,7 @@ GEM
     ansi (1.5.0)
     base64 (0.2.0)
     bindex (0.8.1)
-    bootsnap (1.12.0)
+    bootsnap (1.18.6)
       msgpack (~> 1.2)
     builder (3.3.0)
     capybara (3.37.1)
@@ -289,7 +289,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bootsnap (= 1.12.0)
+  bootsnap (= 1.18.6)
   capybara (= 3.37.1)
   debug (= 1.5.0)
   guard (= 2.18.0)
